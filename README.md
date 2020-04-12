@@ -4,7 +4,7 @@ The following is a simple "Hello world!" or "Ciao!" program using COBOL.
 
 ## How to use this program
 
- *Note:* The following instructions are optimized for a Mac user running VS Code.
+The following instructions are optimized for a Mac user running VS Code.
 
 1. Clone this repo to your local machine.
 
