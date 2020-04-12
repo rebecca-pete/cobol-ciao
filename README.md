@@ -22,9 +22,11 @@ The following program shows you how to print the string, "Ciao!" using COBOL.
 
     To compile the `test.cbl` file into an executable binary, run `cobc -free -x -o test test.cbl`.<br/>
 
-2. The `-free` flag tells GnuCOBOL to be more lenient when parsing code (rather than requiring extremely precise formatting), and the `-x` flag tells GnuCOBOL to generate an executable file. Afterward, you have a binary called `test` that you can execute.<br/>
+    The `-free` flag tells GnuCOBOL to be more lenient when parsing code (rather than requiring extremely precise formatting), and the `-x` flag tells GnuCOBOL to generate an executable file.<br/>
 
-    To do so, run `./test`.
+2. Run `ls`. As you can see, you have a binary executable file called `test` that you can execute. To do so, run `./test`.
+
+    *Note:* If you cloned this repo, the executable files should already be included. I am adding this step to illustrate how to create an executable in COBOL if you wish to create a new program.
 
 3. You should now see the text, `Ciao!` printed in your CLI.
 
