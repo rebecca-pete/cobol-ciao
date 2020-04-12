@@ -14,11 +14,11 @@ The following is a simple "Hello world!" or "Ciao!" program using COBOL.
 
 1. The "Ciao!" text can be found in the `test.cbl` file. `cd` into the folder where this file is located.<br/>
 
-To compile the `test.cbl` file into an executable binary, run `cobc -free -x -o test test.cbl`.
+    To compile the `test.cbl` file into an executable binary, run `cobc -free -x -o test test.cbl`.
 
 1. The `-free` flag tells GnuCOBOL to be more lenient when parsing code (rather than requiring extremely precise formatting), and the `-x` flag tells GnuCOBOL to generate an executable file. Afterward, you have a binary called `test` that you can execute.<br/>
 
-To do so, run `./test`.
+    To do so, run `./test`.
 
 1. You should see the text, `Ciao!` printed in your CLI.
 
