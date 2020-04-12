@@ -10,7 +10,7 @@ The following is a simple "Hello world!" or "Ciao!" program using COBOL.
 
 1. From the CLI, run `brew install open-cobol`.<br/>
 
-**Note:** When opening in VS Code for the first time, install the COBOL Source colouriser extension for easier viewing.
+    **Note:** When opening in VS Code for the first time, install the COBOL Source colouriser extension for easier viewing.
 
 1. The "Ciao!" text can be found in the `test.cbl` file. `cd` into the folder where this file is located.<br/>
 
