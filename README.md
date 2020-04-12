@@ -18,17 +18,15 @@ When opening in VS Code for the first time, install the COBOL Source colouriser 
 
 The following program shows you how to print the string, "Ciao!" using COBOL.
 
-1. From the CLI, run `brew install open-cobol`.<br/>
-
-2. The "Ciao!" text can be found in the `test.cbl` file. `cd` into the folder where this file is located.<br/>
+1. The "Ciao!" text can be found in the `test.cbl` file. `cd` into the folder where this file is located.<br/>
 
     To compile the `test.cbl` file into an executable binary, run `cobc -free -x -o test test.cbl`.<br/>
 
-3. The `-free` flag tells GnuCOBOL to be more lenient when parsing code (rather than requiring extremely precise formatting), and the `-x` flag tells GnuCOBOL to generate an executable file. Afterward, you have a binary called `test` that you can execute.<br/>
+2. The `-free` flag tells GnuCOBOL to be more lenient when parsing code (rather than requiring extremely precise formatting), and the `-x` flag tells GnuCOBOL to generate an executable file. Afterward, you have a binary called `test` that you can execute.<br/>
 
     To do so, run `./test`.
 
-4. You should now see the text, `Ciao!` printed in your CLI.
+3. You should now see the text, `Ciao!` printed in your CLI.
 
 ### Exercise: 2
 
