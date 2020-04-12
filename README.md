@@ -14,6 +14,6 @@ The following is a simple "Hello world!" or "Ciao!" program using COBOL.
 1. The `-free` flag tells GnuCOBOL to be more lenient when parsing code (rather than requiring extremely precise formatting), and the `-x` flag tells GnuCOBOL to generate an executable file. Afterward, you have a binary called `test` that you can execute. To do so, run `./test`.
 1. You should see the text, `Ciao!` from your CLI.
 
-**Sources:**
-[Linux Magazine Tutorial - COBOL](https://www.linux-magazine.com/Issues/2017/204/Tutorials-COBOL#article_l2)
-[WTF is COBOL?](https://youtu.be/TKOr43VmlC0)
+**Sources:**<br/>
+[Linux Magazine Tutorial - COBOL](https://www.linux-magazine.com/Issues/2017/204/Tutorials-COBOL#article_l2)<br/>
+[WTF is COBOL?](https://youtu.be/TKOr43VmlC0)<br/>
