@@ -40,9 +40,9 @@ The following program shows you how to multiply two single-digit inputs using CO
 
 1. To run the executable you just created, run `./multiply` in the CLI.<br/>
 
-1. When prompted, enter any one digit number. For this example, `3`.<br/>
+1. When prompted, enter any one-digit number. For this example, `3`.<br/>
 
-1. When prompted, enter a second one digit number. For this example, `7`.<br/>
+1. When prompted, enter a second one-digit number. For this example, `7`.<br/>
 
 1. You should see the following output: `Result is = 21`
 
